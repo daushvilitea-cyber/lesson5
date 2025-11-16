@@ -25,5 +25,8 @@ a{
 #otherp{
   background-color: aqua;
   border: 4px black;
+  font-family: "Barlow Condensed", sans-serif;
+  font-weight: 500;
+  font-style: normal;
 }
 
