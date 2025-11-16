@@ -1,0 +1,16 @@
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 15px 15px;
+   font-family: "Sedan SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+div {
+    background-color: black;
+}
+
+
